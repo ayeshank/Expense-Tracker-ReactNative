@@ -1,0 +1,13 @@
+{
+  "name": "countdown",
+  "displayName": "countdown",
+  "expo": {
+    "name": "expensetracker",
+    "slug": "expensetracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}
